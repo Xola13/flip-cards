@@ -2,6 +2,7 @@ img{
     position: inline;
     width: 500px;
     height: 300px;
+    border-radius: 50%;
 }
 .flip-card{
     display: inline-block;
