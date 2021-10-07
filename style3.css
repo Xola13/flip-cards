@@ -1,6 +1,7 @@
 img{
     position: inline;
-    
+    width: 500px;
+    height: 300px;
 }
 .flip-card{
     display: inline-block;
