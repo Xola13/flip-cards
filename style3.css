@@ -5,3 +5,7 @@ img{
 .flip-card{
     display: inline-block;
 }
+.body{
+    background-color: aquamarine;
+    text-align: center;
+}
